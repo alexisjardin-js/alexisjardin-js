@@ -34,4 +34,4 @@ Hey Alexis here 👋
 Let's connect 👨‍💻 and forge the future together.😁
 
 [website]: "#"
-[linkedin]: "https://www.linkedin.com/in/alexis-jardin-a684981b2/"
+[linkedin]: https://www.linkedin.com/in/alexis-jardin-a684981b2/

@@ -1,5 +1,5 @@
 Hey Alexis here 👋
-
+![Profile views](https://gpvc.arturio.dev/alexisjardin-js)  <img src="https://img.shields.io/github/followers/alexisjardin-js?label=Follow" style=" float:left, margin-right:10px" />
 
 ### Tech & Tools Preference
 

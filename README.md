@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/alexisjardin-js/alexisjardin-js/blob/main/20220225_181350%20-%20Editado.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 ---
 

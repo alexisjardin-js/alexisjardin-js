@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://github.com/alexisjardin-js/alexisjardin-js/blob/main/Blue%20Illustration%20Personal%20LinkedIn%20Banner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
+
 ---
+
 ![Profile views](https://gpvc.arturio.dev/alexisjardin-js)  <img src="https://img.shields.io/github/followers/alexisjardin-js?label=Follow" style=" float:left, margin-right:10px" />
 
 ---

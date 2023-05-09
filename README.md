@@ -41,5 +41,5 @@
 ---
 Let's connect 👨‍💻 and forge the future together.😁
 
-[website]: "https://alexis-jardin.netlify.app/"
+[website]: https://alexis-jardin.netlify.app/
 [linkedin]: https://www.linkedin.com/in/alexis-jardin-a684981b2/

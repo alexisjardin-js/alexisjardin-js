@@ -63,14 +63,14 @@ Otros lenguajes de Programacion
 
 
 ---
-### You can find in me in the web 🌍
+### Puedes encontrarme en la web. 🌍
 [<img align="left" alt="alex32" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="alex32 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
 
 ---
-Let's connect 👨‍💻 and forge the future together.😁
+Conectemos 👨‍💻 y forjemos el futuro juntos.😁
 
 [website]: https://alexis-jardin.netlify.app/
 [linkedin]: https://www.linkedin.com/in/alexis-jardin-a684981b2/

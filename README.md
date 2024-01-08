@@ -8,7 +8,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=alexisjardin-js)  <img src="https://img.shields.io/github/followers/alexisjardin-js?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
-### Tech & Tools Preference
+### Tecnologias y Herramientas Preferidas
 Bases Principales
 </br>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
@@ -33,8 +33,11 @@ Bases de Datos
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 
-
+Entornos
+</br>
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Anaconda-3C873A?style=flat&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/-bun-coral?style=flat&logo=bun&logoColor=white">
 
 Control de versiones
 </br>

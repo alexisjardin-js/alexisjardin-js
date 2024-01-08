@@ -19,11 +19,12 @@ frameworks-Preprocesadores de Css
 </br>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Tailwind-5DC1B9?style=flat&logo=tailwindcss&logoColor=ffffff">
 
 Librerias-Frameworks
 </br>
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Next-430098?style=flat&logo=next&logoColor=red">
+<img src="https://img.shields.io/badge/-Next-430098?style=flat&logo=nextjs&logoColor=red">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Astro-430098?style=flat&logo=astro&logoColor=red">
 
@@ -51,7 +52,7 @@ Alojamiento de Proyectos
 </br>
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Netlify-430098?style=flat&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/-Vercel-430098?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 Otros lenguajes de Programacion
 </br>

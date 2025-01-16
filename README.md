@@ -65,8 +65,8 @@ Otros lenguajes de Programacion
 
 ---
 ### Puedes encontrarme en la web. 🌍
-[<img align="left" alt="alex32" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="alex32 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="alex32" width="22px" src="https://github.com/alexisjardin-js/alexisjardin-js/blob/main/world.svg" />][website]
+[<img align="left" alt="alex32 | LinkedIn" width="22px" src="https://github.com/alexisjardin-js/alexisjardin-js/blob/main/brand-linkedin.svg" />][linkedin]
 <br/>
 
 

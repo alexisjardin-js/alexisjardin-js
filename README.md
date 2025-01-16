@@ -65,13 +65,13 @@ Otros lenguajes de Programacion
 
 ---
 ### Puedes encontrarme en la web. 🌍
-[<img align="left" alt="alex32" width="22px" src="https://github.com/alexisjardin-js/alexisjardin-js/blob/main/world.svg" />][website]
-[<img align="left" alt="alex32 | LinkedIn" width="22px" src="https://github.com/alexisjardin-js/alexisjardin-js/blob/main/brand-linkedin.svg" />][linkedin]
+[<img align="left" alt="alex32" width="25px" src="https://github.com/alexisjardin-js/alexisjardin-js/blob/main/world.svg" />][website]
+[<img align="left" alt="alex32 | LinkedIn" width="25px" src="https://github.com/alexisjardin-js/alexisjardin-js/blob/main/brand-linkedin.svg" />][linkedin]
 <br/>
 
 
 ---
 Conectemos 👨‍💻 y forjemos el futuro juntos.😁
 
-[website]: https://alexis-jardin.netlify.app/
+[website]: https://alexisjardin.netlify.app/
 [linkedin]: https://www.linkedin.com/in/alexis-jardin-a684981b2/
